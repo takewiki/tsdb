@@ -1,0 +1,11 @@
+Package: tsdb
+Type: Package
+Title: data base in takewiki solutions
+Version: 1.0.0
+Author: hulilei
+Maintainer: hulilei <hulilei@takewiki.com.cn>
+Description: database info stored in the function for this package
+    we can use for internet service
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
